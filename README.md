@@ -1,6 +1,6 @@
 # ✨ Hi! 👋
 
-Someday I'll have the time to properly introduce myself. For now, here are some stats
+![as-cv-2021-07-29-1702](https://user-images.githubusercontent.com/6496157/128714131-82c7ea2d-12e1-447b-99a3-5dcfa422fd73.png)
 
 <!--
 **shahwan42/shahwan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
