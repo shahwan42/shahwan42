@@ -1,8 +1,6 @@
 # ✨ Hi! 👋
 
-Someday I'll have the time to properly introduce myself. For now, here are some stats.
-
-<br>
+Someday I'll have the time to properly introduce myself. For now, here are some stats
 
 <!--
 **shahwan42/shahwan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ahmed Shahwan's github stats](https://github-readme-stats.vercel.app/api?username=shahwan42&count_private=true&show_icons=true)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahwan42&layout=compact)
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahwan42" alt="shahwan42" /></p>
+<p>
+  <img width=340 src="https://github-readme-stats.vercel.app/api?username=shahwan42&count_private=true&show_icons=true" alt="Ahmed Shahwan's GitHub stats">
+  <img width=340 src="https://github-readme-streak-stats.herokuapp.com/?user=shahwan42" alt="Ahmed Shahwan's contributions" />
+  <img width=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahwan42&layout=compact" alt="Ahmed Shahwan's top languages">
+</p>
