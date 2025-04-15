@@ -15,8 +15,8 @@ Outside of work, I'm a proud father of two, and I’m constantly working on honi
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, PHP, Ruby (learning)
-- **Frameworks**: Django, Laravel, Ruby on Rails
+- **Languages**: Python, PHP, Go (learning)
+- **Frameworks**: Django, Laravel
 - **Frontend Basics**: HTML, CSS, JavaScript, React (basic), GraphQL
 - **Tools & Platforms**: PostgreSQL, Redis, Docker, Git, AWS (learning)
 - **Workflow**: TDD, CI/CD, SOLID Principles, Clean Code, RESTful APIs, Multi-tenant Architectures
@@ -27,7 +27,7 @@ Outside of work, I'm a proud father of two, and I’m constantly working on honi
 
 - 🚧 **Contributing to [Lago](https://github.com/getlago/lago)** — Open-source billing solution (RoR + GraphQL)
 - ⚙️ **MoneyHash** — Streamlining payment infrastructure
-<!-- - 🛍️ **Building SharePay** — Collective Payments with ease! -->
+<!-- - 🛍️ **Building TODO** — TODO! -->
 
 ---
 
