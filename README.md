@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm a backend-focused software engineer with **6 years** of hands-on experience across diverse stacks, currently working with **Python/Django**. I have a solid background in **PHP/Laravel** and am currently diving into **Ruby on Rails** through integrating [MoneyHash](https://www.moneyhash.io/) into [Lago](https://getlago.com).
+I'm a backend-focused software engineer with **6 years** of hands-on experience across diverse stacks, currently working with **Python/Django** and I have a solid background in **PHP/Laravel**.
 
 Outside of work, I'm a proud father of two, and I’m constantly working on honing my skills to stand out in a competitive tech world.
 
