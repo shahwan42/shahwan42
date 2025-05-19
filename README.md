@@ -15,25 +15,22 @@ Outside of work, I'm a proud father of two, and I’m constantly working on honi
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, PHP, Go (learning)
-- **Frameworks**: Django, Laravel
-- **Frontend Basics**: HTML, CSS, JavaScript, React (basic), GraphQL
-- **Tools & Platforms**: PostgreSQL, Redis, Docker, Git, AWS (learning)
-- **Workflow**: TDD, CI/CD, SOLID Principles, Clean Code, RESTful APIs, Multi-tenant Architectures
+- **Solid Background**: Python/Django, PHP/Laravel
+- **Concepts/Methods**: TDD, CI/CD, SOLID, Clean Code, Clean Architecture, RESTful APIs, GraphQL, Multi-tenant SaaS
+- **Others**: HTML, CSS, JavaScript, PostgreSQL, Redis, Docker, Git, AWS
 
 ---
 
 ## 🧩 What I'm Working On
 
-- 🚧 **Contributing to [Lago](https://github.com/getlago/lago)** — Open-source billing solution (RoR + GraphQL)
-- ⚙️ **MoneyHash** — Streamlining payment infrastructure
-<!-- - 🛍️ **Building TODO** — TODO! -->
+- ⚙️ **Foodics/Pay** — Exciting Fintech solutions for Foodics customers
+- 🛍️ **Building SharePay** — A Multi-tenant SaaS for Collective Payments
 
 ---
 
 ## 🌱 Current Learning Goals
 
-- 🔒 Mastering advanced Django techniques & performance optimization
+- 🔒 Mastering advanced Backend techniques & performance optimization
 - 🧰 Deepening my understanding of scalable software architecture
 - ☁️ Exploring AWS cloud services and DevOps practices
 <!-- - 🛡️ Practicing Domain-Driven Design & Test-Driven Development -->
