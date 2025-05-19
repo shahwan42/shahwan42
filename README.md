@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm a backend-focused software engineer with **6 years** of hands-on experience across diverse stacks, currently working with **Python/Django** and I have a solid background in **PHP/Laravel**.
+I'm a backend-focused software engineer with **6 years** of hands-on experience across diverse stacks, currently working with **PHP/Laravel** and I have a solid background in **Python/Django**.
 
 Outside of work, I'm a proud father of two, and I’m constantly working on honing my skills to stand out in a competitive tech world.
 
