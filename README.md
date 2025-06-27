@@ -30,10 +30,11 @@ Outside of work, I'm a proud father of two, and I’m constantly working on honi
 
 ## 🌱 Current Learning Goals
 
+- ⚛️ ▲ Exploring Front-End through React & Next
+- ☁️ Exploring AWS cloud services and DevOps practices
 - 🔒 Mastering advanced Backend techniques & performance optimization
 - 🧰 Deepening my understanding of scalable software architecture
-- ☁️ Exploring AWS cloud services and DevOps practices
-<!-- - 🛡️ Practicing Domain-Driven Design & Test-Driven Development -->
+- 🛡️ Practicing Clean Architecture & Test-Driven Development
 
 ---
 
