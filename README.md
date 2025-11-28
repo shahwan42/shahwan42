@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Ahmed Shahwan
 
-🚀 **Software Engineer | Backend | SaaS**  
-💼 Passionate about building clean, scalable, and impactful software.
+**Software Engineer | Backend | SaaS**  
+Passionate about building clean, scalable, and impactful software.
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a backend-focused software engineer with **6 years** of hands-on experience across diverse stacks, currently working with **PHP/Laravel** and I have a solid background in **Python/Django**.
+Value-driven backend-focused software engineer with **6 years** of hands-on experience developing impactful software solutions, currently working with **PHP/Laravel** and I have a solid background in **Python/Django**.
 
 ---
 
 ## 🧩 What I'm Working On
 
-- ⚙️ **Foodics/EgleEye** — Exciting Fintech Solution for Foodics customers
+- **Foodics - EgleEye** — Exciting Fintech Solution, taking it form 0 to 1
 
 ---
 
@@ -40,4 +40,3 @@ I'm a backend-focused software engineer with **6 years** of hands-on experience 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahwan42)
 - 📨 [Email](https://hi.new/ahmd)
-- ✍️ [Personal Blog](#) — Coming soon!
