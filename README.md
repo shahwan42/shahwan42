@@ -7,7 +7,7 @@ Passionate about building clean, scalable, and impactful software.
 
 ## About Me
 
-Value-driven backend-focused software engineer with **6 years** of hands-on experience developing impactful software solutions, currently working with **PHP/Laravel** and I have a solid background in **Python/Django**.
+Value-driven backend-focused software engineer with **years** of hands-on experience developing impactful software solutions, currently working with **PHP/Laravel** and I have a solid background in **Python/Django**.
 
 ---
 
