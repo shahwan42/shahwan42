@@ -17,16 +17,6 @@ Value-driven backend-focused software engineer with **years** of hands-on experi
 
 ---
 
-## 🌱 Current Learning Goals
-
-- Mastering Backend Engineering
-  - Software Architecture
-  - System Design
-  - Advanced Database Concepts
-- Honing the basics Algs,DS,PS
-
----
-
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahwan42)
